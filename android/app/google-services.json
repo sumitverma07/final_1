@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044519624966",
+    "project_id": "radhey-2dd79",
+    "storage_bucket": "radhey-2dd79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044519624966:android:de4d73e219a3d566cf3e87",
+        "android_client_info": {
+          "package_name": "com.example.final1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBamGq0GBJeTYrCv8x1QWoCnHfCeNTuUGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
